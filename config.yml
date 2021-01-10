@@ -1,0 +1,39 @@
+# CustomSlashDiscord by Simon"
+
+
+# This section is the message before the invite. You can put anything you want here.
+inviteMessage: "&a(Edit the config.yml) &bSupport:"
+# Make sure to put "" as like before. Example:
+# inviteMessage: "&aOur &cinvite:"
+# For support, add me on Discord: Simon.#4921
+
+
+# Insert your invite to {discordLink}. You can remove the brackets. It also supports color codes.
+discordLink: "&chttps://discord.gg/CVERsBh"
+# Make sure to put an " after and before the link. Example:
+# discordLink: "&chttps://discord.gg/testers"
+#
+#
+#
+# Support discord: https://discord.gg/CVERsBh
+#
+#
+#
+#
+# Colors:
+# Green: &a
+# Aqua: &b
+# Red: &c
+# Pink: &d
+# Yellow: &e
+# White: &f
+# Black: &0
+# DarkBlue: &1
+# DarkGreen: &2
+# DarkAqua: &3
+# DarkRed: &4
+# DarkPurple: &5
+# Gold: &6
+# Grey: &7
+# DarkGrey: &8
+# Indigo: &9 
